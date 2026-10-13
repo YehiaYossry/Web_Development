@@ -31,3 +31,11 @@ size-adjust: auto;}
 size-adjust: auto;}
  #three{margin-right:auto;
 size-adjust: auto;}
+
+#contacts {
+    color: black;
+    text-align: center;
+    margin: 0px auto;
+    width: 50%;
+    padding: 20px;
+}
