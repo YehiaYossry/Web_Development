@@ -1,0 +1,33 @@
+#div1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px 20px;
+
+}
+#div2 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0px auto;
+    width: 50%;
+    
+
+}
+#projects {text-align: center;
+    margin: 0px auto;
+    width: 50%;
+    padding: 20px;
+}
+ #container{
+   display: flex;    
+   flex-direction: row;
+   justify-content: center;
+   gap: 20px;
+}
+ #one{margin-right:auto;
+size-adjust: auto;}
+ #two{margin-right:auto;
+size-adjust: auto;}
+ #three{margin-right:auto;
+size-adjust: auto;}
