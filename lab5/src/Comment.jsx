@@ -5,9 +5,6 @@ function Comment({name,text}){
        function addlike (){
             setlikescounter(likescounter+1)
         }
-
-    
-
     return(
         <div className="comment">
             <div className="avatar">{name[0]}</div>

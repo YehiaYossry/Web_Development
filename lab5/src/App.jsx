@@ -10,15 +10,12 @@ function App() {
         {text:"Can we do a lab on useState next week", sender:"Ali"},
         {text:"Thanks for the lab , this was fun !", sender:"You"},
     ])
-
-
   return (
    <>
      <ChatInput commentlist={commentlist} setcommentList={setcommentList}/>
      <CommentList commentlist={commentlist}/>
   </>
   );
-  
 }
 
 export default App
